@@ -53,6 +53,10 @@ else{
             <li class="nav-item">
                 <a class="nav-link" href="request.php">Request</a>
             </li>
+
+            <li class="nav-item">
+                <a class="nav-link" href="request.php">Watchlist</a>
+            </li>
             <li class="nav-item dropdown dropleft">
                 <a class="nav-link" href="#" data-toggle="dropdown">
                     <img src="../image/default-user.png" style="width:30px; border-radius:50%;" alt="logo ">

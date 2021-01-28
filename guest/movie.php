@@ -49,7 +49,14 @@ if (isset($_SESSION['username'])) {
                 <a class="nav-link active" href="browse.php">Browse Movies</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="../index.php#popup1">Log In</a>
+                <a class="nav-link active" href="#">Watch List</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="../index.php#popup2">Register</a>
+            </li>
+
+            <li class="nav-item">
+                <a class="nav-link" href="../index.php#popup1">Login</a>
             </li>
         </ul>
     </nav>
